@@ -9,3 +9,6 @@ TensorFlow 1.9.0
 NumPy 1.16.3
 Pillow 6.0.0
 Matplotlib 3.1.0
+
+## Usage
+Upload the latest version on S3 and link the package in you Lambda function
